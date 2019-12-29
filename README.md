@@ -553,19 +553,19 @@ public class Notes01Ex1
 		/* Java 13 will be testing block text, this will not compile 
 		in Java 11 or Java 12 but will work in Java 13 with the --enable-preview
 		option (example from https://dev.to/vojtechruz/java-13-text-blocks-6nb):
-		var text = """
-		This is my cool string,
-		which I want to span
-		multiple lines.
-		It can have backslash \
-		and even double-quotes "
-		"""
+		String html = """
+                  <html>
+                    <body>
+                      <p>Hello, world</p>
+                    </body>
+                  </html>
+                  """;
 		*/
 		System.out.println(str);
 	}
 }
 ```
-
+- As explained in <a href="https://dev.to/vojtechruz/java-13-text-blocks-6nb" target="blank">Text Block link</a> the current proposal is to store the indentation relative to the first line of the block.
 - Look back at the code of BankAccount, which shows you can choose to have more than one constructor
 - While in the code of Counter there is no constructor but one gets provided--in this case a no-argument constructor--so we can write `myCounter = new Counter();`
 
