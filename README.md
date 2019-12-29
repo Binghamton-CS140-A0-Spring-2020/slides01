@@ -797,11 +797,11 @@ constructed (also called an *object* of the class).
 
 - Here is the call stack just after the call to the constructor has ended and returned to the `main` method
 
-![](CallStack2.jpg)
+![](https://www.cs.binghamton.edu/~lander/cs140/CallStack2.JPG)
 
 - Here is the call stack after executing the last instruction in `main` (just before the program ends)
 
-![](CallStack3.jpg)
+![](https://www.cs.binghamton.edu/~lander/cs140/CallStack3.JPG))
 
 - A *primitive* variable is the program's name for a location in computer memory
 - *Values* of the primitive variables are stored at those memory locations.
