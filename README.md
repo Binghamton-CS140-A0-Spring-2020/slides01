@@ -793,7 +793,7 @@ len = river.length( );
 constructed (also called an *object* of the class).
 - Parameters and local variables are stored in the *call stack*. Here is the call stack just before the constructor call ends.
 
-![](https://www.cs.binghamton.edu/~lander/cs140/CallStack1.jpg)
+![](https://www.cs.binghamton.edu/~lander/cs140/CallStack1.JPG)
 
 - Here is the call stack just after the call to the constructor has ended and returned to the `main` method
 
