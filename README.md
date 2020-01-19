@@ -424,8 +424,6 @@ like Eclipse on Windows but you can install Gedit or Notepad++ on Windows. We us
 
 **Mostly like C, not the same as Python**
 
-You can clone a copy of the code shown in class using your Git Bash terminal window to clone and download from this link XXXXXXXXXXXXXXXXXXXXXXXXXX
-
 **Simple statements end with semicolons**
 
 - Arithmetic assignments
@@ -791,9 +789,7 @@ len = river.length( );
 ```
  show that the constructor has access to the *instance fields* inside the *instance* of the class that is being 
 constructed (also called an *object* of the class).
-- Parameters and local variables are stored in the *call stack*. Here is the call stack just before the constructor call ends.
-
-![](https://www.cs.binghamton.edu/~lander/cs140/CallStack1.JPG)
+- Parameters and local variables are stored in the *call stack*. Here is the call stack just before the constructor call ends.![](https://www.cs.binghamton.edu/~lander/cs140/CallStack1.JPG)
 
 - Here is the call stack just after the call to the constructor has ended and returned to the `main` method
 
