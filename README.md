@@ -36,7 +36,7 @@ Typing Git Bash in the search field of Windows with open a Git terminal window, 
 clone the same repository you use in Lab. You can repeat the instructions from Lab.
 - TODO for Windows: Download and install Gedit for Windows from the <a href="https://wiki.gnome.org/Apps/Gedit#Download" target="blank">Gedit download page (the Windows 64-bit binaries)</a>. We will be using Gedit in the labs.
 - TODO If you do not have a GitHub account, go to GitHub (https://github.com/) and sign up. 
-Once you have signed up for an account, fill out and submit this <a href="https://tinyurl.com/yxxq4wz5" target="blank">Google Form</a>
+Once you have signed up for an account, fill out and submit this <a href="https://docs.google.com/forms/d/e/1FAIpQLScY7jaNu5EQBvSgBYviebTIfU-sXctDjsooiAT2joM7SzCMNQ/viewform" target="blank">Google Form</a>
 so we can get you into the GitHub classroom.
 
 **Course Information Page is important**
