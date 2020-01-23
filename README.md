@@ -151,7 +151,8 @@ package ch03.sec01;
 public class Counter 
 { 
     private int value; 
-    /** Gets the current value of this counter. 
+    /** 
+     * Gets the current value of this counter. 
      * @return the current value 
      */ 
     public int getValue() 
